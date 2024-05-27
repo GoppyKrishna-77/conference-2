@@ -359,3 +359,20 @@
 .credits a {
 	color: var(--color);
 }
+
+/* Table */
+
+table thead th {
+    background-color: #164c9c !important;
+    color: #edebeb !important;
+}
+
+table {
+    border-collapse: collapse !important;
+    border: 1px solid #000 !important;
+}
+
+.first-row {
+    background-color: #164c9c !important;
+    color: #edebeb !important;
+}
